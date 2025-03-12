@@ -9,7 +9,7 @@ export default function Home() {
       <div className="origin-top-left rotate-[8.64deg] w-[543px] h-[590.40px] left-[1068.69px] top-[226px] absolute">
         <img className="w-[630.99px] h-[500.71px] left-[81.51px] top-[-50.62px] absolute object-cover shadow-lg" src="https://plus.unsplash.com/premium_photo-1674327105076-36c4419864cf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwcHVjY2lubyUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D" />
       </div>
-      <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">BlaBla Coffe</div>
+      <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">BlaBla Coffe!</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">Your No.1 Choice</div>
       <div className="left-[64px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Home</div>
       <div className="left-[270px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Menu</div>
